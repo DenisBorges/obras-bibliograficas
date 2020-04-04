@@ -1,0 +1,33 @@
+<div style="margin:50px;">
+    <div class="alert alert-info"><b>Listar Autores</b></div>
+    <div class="table-responsive">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th [ngClass]="'hide'">id</th>
+                    <th>Nome do Autor</th>
+                    <th>Nome</th>
+                    <th>Nome do Meio</th>
+                    <th>Sobrenome</th>
+                    <th>Data Cadastro</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr *ngFor="let item of autorList" [hidden]="item.visible == false">
+                    <td [ngClass]="'hide'">{{item.id}}</td>
+                    <td>{{item.nomedeAutor}}</td>
+                    <td>{{item.nome}}</td>
+                    <td>{{item.nomedoMeio}}</td>
+                    <td>{{item.sobrenome}}</td>
+                    <td>{{item.data_Cadastro | date: 'dd/MM/yyyy hh:mm:ss'}}</td>
+                    <td>
+                        <span>
+                            <button type="button" (click)="deleteAutor(item)" class="btn btn-danger">Excluir</button>
+                        </span>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>

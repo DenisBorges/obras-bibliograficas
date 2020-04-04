@@ -1,0 +1,49 @@
+<br />
+<div class="col-md-6">
+    <div class="card">
+        <div class="card-header"><b>Cadastrar Autor</b></div>
+        <div class="card-body">
+            <form [formGroup]="angForm" novalidate>
+
+                <!-- NOME -->
+                <div class="form-group">
+                    <label class="col-md-4">Nome:</label>
+                    <input type="text" class="form-control" maxlength="30" formControlName="nome" #nome />
+                </div>
+                <div *ngIf="angForm.controls['nome'].invalid && (angForm.controls['nome'].dirty || angForm.controls['nome'].touched)"
+                    class="alert alert-danger">
+                    <div *ngIf="angForm.controls['nome'].errors.required">
+                        Nome é requerido.
+                    </div>
+                </div>
+
+                <!-- NOME DO MEIO -->
+                <div class="form-group">
+                    <label class="col-md-4">Nome do Meio:</label>
+                    <input type="text" class="form-control" maxlength="30" formControlName="nomedoMeio" #nomedoMeio />
+                </div>
+
+                <!-- SOBRENOME -->
+                <div class="form-group">
+                    <label class="col-md-4">Sobrenome:</label>
+                    <input type="text" class="form-control" maxlength="30" formControlName="sobrenome" #sobrenome />
+                </div>
+                <div *ngIf="angForm.controls['sobrenome'].invalid && (angForm.controls['sobrenome'].dirty || angForm.controls['sobrenome'].touched)"
+                    class="alert alert-danger">
+                    <div *ngIf="angForm.controls['sobrenome'].errors.required">
+                        Sobrenome é requerido.
+                    </div>
+                </div>
+
+                <!-- SALVAR  -->
+                <div class="form-group">
+                    <button (click)="addAutor(nome.value, nomedoMeio.value, sobrenome.value)"
+                        [disabled]="angForm.pristine || angForm.invalid" class="btn btn-primary">
+                        Salvar
+                    </button>
+                </div>
+               
+            </form>
+        </div>
+    </div>
+</div>

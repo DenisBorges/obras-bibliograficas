@@ -1,0 +1,15 @@
+C:\Users\Denis\source\repos\ObrasBibliograficas\ObrasBibliograficas.CrossCutting\bin\Debug\netcoreapp3.1\ObrasBibliograficas.CrossCutting.deps.json
+C:\Users\Denis\source\repos\ObrasBibliograficas\ObrasBibliograficas.CrossCutting\bin\Debug\netcoreapp3.1\ObrasBibliograficas.CrossCutting.dll
+C:\Users\Denis\source\repos\ObrasBibliograficas\ObrasBibliograficas.CrossCutting\bin\Debug\netcoreapp3.1\ObrasBibliograficas.CrossCutting.pdb
+C:\Users\Denis\source\repos\ObrasBibliograficas\ObrasBibliograficas.CrossCutting\bin\Debug\netcoreapp3.1\ObrasBibliograficas.AppService.dll
+C:\Users\Denis\source\repos\ObrasBibliograficas\ObrasBibliograficas.CrossCutting\bin\Debug\netcoreapp3.1\ObrasBibliograficas.DataAcess.dll
+C:\Users\Denis\source\repos\ObrasBibliograficas\ObrasBibliograficas.CrossCutting\bin\Debug\netcoreapp3.1\ObrasBibliograficas.Domain.dll
+C:\Users\Denis\source\repos\ObrasBibliograficas\ObrasBibliograficas.CrossCutting\bin\Debug\netcoreapp3.1\ObrasBibliograficas.AppService.pdb
+C:\Users\Denis\source\repos\ObrasBibliograficas\ObrasBibliograficas.CrossCutting\bin\Debug\netcoreapp3.1\ObrasBibliograficas.DataAcess.pdb
+C:\Users\Denis\source\repos\ObrasBibliograficas\ObrasBibliograficas.CrossCutting\bin\Debug\netcoreapp3.1\ObrasBibliograficas.Domain.pdb
+C:\Users\Denis\source\repos\ObrasBibliograficas\ObrasBibliograficas.CrossCutting\obj\Debug\netcoreapp3.1\ObrasBibliograficas.CrossCutting.csprojAssemblyReference.cache
+C:\Users\Denis\source\repos\ObrasBibliograficas\ObrasBibliograficas.CrossCutting\obj\Debug\netcoreapp3.1\ObrasBibliograficas.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\ObrasBibliograficas\ObrasBibliograficas.CrossCutting\obj\Debug\netcoreapp3.1\ObrasBibliograficas.CrossCutting.AssemblyInfo.cs
+C:\Users\Denis\source\repos\ObrasBibliograficas\ObrasBibliograficas.CrossCutting\obj\Debug\netcoreapp3.1\ObrasBibliograficas.CrossCutting.csproj.CopyComplete
+C:\Users\Denis\source\repos\ObrasBibliograficas\ObrasBibliograficas.CrossCutting\obj\Debug\netcoreapp3.1\ObrasBibliograficas.CrossCutting.dll
+C:\Users\Denis\source\repos\ObrasBibliograficas\ObrasBibliograficas.CrossCutting\obj\Debug\netcoreapp3.1\ObrasBibliograficas.CrossCutting.pdb

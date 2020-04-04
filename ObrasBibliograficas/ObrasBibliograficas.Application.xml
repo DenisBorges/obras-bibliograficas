@@ -1,0 +1,19 @@
+﻿<?xml version="1.0"?>
+<doc>
+  <assembly>
+    <name>ObrasBibliograficas.Application</name>
+  </assembly>
+  <members>
+    <member name="T:ObrasBibliograficas.Application.Middlewares.DependencyInjectionMiddleware">
+      <summary>
+        Classe de inserção de injeção de dependência
+      </summary>
+    </member>
+    <member name="M:ObrasBibliograficas.ApplicationMiddlewares.DependencyInjectionMiddleware.AddDependencyInjection(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+      <summary>
+        Test project to register book authors
+      </summary>
+      <param name="services">serviços</param>
+    </member>
+  </members>
+</doc>

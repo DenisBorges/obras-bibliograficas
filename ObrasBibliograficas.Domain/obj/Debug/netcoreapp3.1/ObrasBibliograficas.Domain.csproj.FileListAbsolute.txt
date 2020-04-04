@@ -1,0 +1,7 @@
+C:\Users\Denis\source\repos\ObrasBibliograficas\ObrasBibliograficas.Domain\bin\Debug\netcoreapp3.1\ObrasBibliograficas.Domain.deps.json
+C:\Users\Denis\source\repos\ObrasBibliograficas\ObrasBibliograficas.Domain\bin\Debug\netcoreapp3.1\ObrasBibliograficas.Domain.dll
+C:\Users\Denis\source\repos\ObrasBibliograficas\ObrasBibliograficas.Domain\bin\Debug\netcoreapp3.1\ObrasBibliograficas.Domain.pdb
+C:\Users\Denis\source\repos\ObrasBibliograficas\ObrasBibliograficas.Domain\obj\Debug\netcoreapp3.1\ObrasBibliograficas.Domain.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\ObrasBibliograficas\ObrasBibliograficas.Domain\obj\Debug\netcoreapp3.1\ObrasBibliograficas.Domain.AssemblyInfo.cs
+C:\Users\Denis\source\repos\ObrasBibliograficas\ObrasBibliograficas.Domain\obj\Debug\netcoreapp3.1\ObrasBibliograficas.Domain.dll
+C:\Users\Denis\source\repos\ObrasBibliograficas\ObrasBibliograficas.Domain\obj\Debug\netcoreapp3.1\ObrasBibliograficas.Domain.pdb
