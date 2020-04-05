@@ -1,7 +1,9 @@
 ﻿# Obras Bibliográficas
 
 Componentes Utilizados:
+
 API: .Net Core, DDD, AutoMapper, EntityFrameworkCore, DepedencyInjection, Logger, Migrations, Swagger, Repository Pattern, SqLite, Fluent API;
+
 UI: Angular8, bootstrap,loading-bar, HttpClient;
 
 Para executar o projeto corretamente, siga as instruções abaixo:
