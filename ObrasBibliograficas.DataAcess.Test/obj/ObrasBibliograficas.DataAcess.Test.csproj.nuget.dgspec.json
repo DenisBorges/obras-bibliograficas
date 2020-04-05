@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Denis\\source\\repos\\ObrasBibliograficas\\ObrasBibliograficas.DataAcess.Test\\ObrasBibliograficas.DataAcess.Test.csproj": {}
+    "C:\\Projetos\\obras-bibliograficas\\ObrasBibliograficas.DataAcess.Test\\ObrasBibliograficas.DataAcess.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Denis\\source\\repos\\ObrasBibliograficas\\ObrasBibliograficas.DataAcess.Test\\ObrasBibliograficas.DataAcess.Test.csproj": {
+    "C:\\Projetos\\obras-bibliograficas\\ObrasBibliograficas.DataAcess.Test\\ObrasBibliograficas.DataAcess.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Denis\\source\\repos\\ObrasBibliograficas\\ObrasBibliograficas.DataAcess.Test\\ObrasBibliograficas.DataAcess.Test.csproj",
+        "projectUniqueName": "C:\\Projetos\\obras-bibliograficas\\ObrasBibliograficas.DataAcess.Test\\ObrasBibliograficas.DataAcess.Test.csproj",
         "projectName": "ObrasBibliograficas.DataAcess.Test",
-        "projectPath": "C:\\Users\\Denis\\source\\repos\\ObrasBibliograficas\\ObrasBibliograficas.DataAcess.Test\\ObrasBibliograficas.DataAcess.Test.csproj",
+        "projectPath": "C:\\Projetos\\obras-bibliograficas\\ObrasBibliograficas.DataAcess.Test\\ObrasBibliograficas.DataAcess.Test.csproj",
         "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Denis\\source\\repos\\ObrasBibliograficas\\ObrasBibliograficas.DataAcess.Test\\obj\\",
+        "outputPath": "C:\\Projetos\\obras-bibliograficas\\ObrasBibliograficas.DataAcess.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Denis\\source\\repos\\ObrasBibliograficas\\ObrasBibliograficas.Domain\\ObrasBibliograficas.Domain.csproj": {
-                "projectPath": "C:\\Users\\Denis\\source\\repos\\ObrasBibliograficas\\ObrasBibliograficas.Domain\\ObrasBibliograficas.Domain.csproj"
+              "C:\\Projetos\\obras-bibliograficas\\ObrasBibliograficas.Domain\\ObrasBibliograficas.Domain.csproj": {
+                "projectPath": "C:\\Projetos\\obras-bibliograficas\\ObrasBibliograficas.Domain\\ObrasBibliograficas.Domain.csproj"
               }
             }
           }
@@ -81,14 +81,14 @@
         }
       }
     },
-    "C:\\Users\\Denis\\source\\repos\\ObrasBibliograficas\\ObrasBibliograficas.Domain\\ObrasBibliograficas.Domain.csproj": {
+    "C:\\Projetos\\obras-bibliograficas\\ObrasBibliograficas.Domain\\ObrasBibliograficas.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Denis\\source\\repos\\ObrasBibliograficas\\ObrasBibliograficas.Domain\\ObrasBibliograficas.Domain.csproj",
+        "projectUniqueName": "C:\\Projetos\\obras-bibliograficas\\ObrasBibliograficas.Domain\\ObrasBibliograficas.Domain.csproj",
         "projectName": "ObrasBibliograficas.Domain",
-        "projectPath": "C:\\Users\\Denis\\source\\repos\\ObrasBibliograficas\\ObrasBibliograficas.Domain\\ObrasBibliograficas.Domain.csproj",
+        "projectPath": "C:\\Projetos\\obras-bibliograficas\\ObrasBibliograficas.Domain\\ObrasBibliograficas.Domain.csproj",
         "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Denis\\source\\repos\\ObrasBibliograficas\\ObrasBibliograficas.Domain\\obj\\",
+        "outputPath": "C:\\Projetos\\obras-bibliograficas\\ObrasBibliograficas.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

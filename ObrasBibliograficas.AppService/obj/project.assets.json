@@ -2019,11 +2019,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Denis\\source\\repos\\ObrasBibliograficas\\ObrasBibliograficas.AppService\\ObrasBibliograficas.AppService.csproj",
+      "projectUniqueName": "C:\\Projetos\\obras-bibliograficas\\ObrasBibliograficas.AppService\\ObrasBibliograficas.AppService.csproj",
       "projectName": "ObrasBibliograficas.AppService",
-      "projectPath": "C:\\Users\\Denis\\source\\repos\\ObrasBibliograficas\\ObrasBibliograficas.AppService\\ObrasBibliograficas.AppService.csproj",
+      "projectPath": "C:\\Projetos\\obras-bibliograficas\\ObrasBibliograficas.AppService\\ObrasBibliograficas.AppService.csproj",
       "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Denis\\source\\repos\\ObrasBibliograficas\\ObrasBibliograficas.AppService\\obj\\",
+      "outputPath": "C:\\Projetos\\obras-bibliograficas\\ObrasBibliograficas.AppService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2042,8 +2042,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Denis\\source\\repos\\ObrasBibliograficas\\ObrasBibliograficas.DataAcess\\ObrasBibliograficas.DataAcess.csproj": {
-              "projectPath": "C:\\Users\\Denis\\source\\repos\\ObrasBibliograficas\\ObrasBibliograficas.DataAcess\\ObrasBibliograficas.DataAcess.csproj"
+            "C:\\Projetos\\obras-bibliograficas\\ObrasBibliograficas.DataAcess\\ObrasBibliograficas.DataAcess.csproj": {
+              "projectPath": "C:\\Projetos\\obras-bibliograficas\\ObrasBibliograficas.DataAcess\\ObrasBibliograficas.DataAcess.csproj"
             }
           }
         }

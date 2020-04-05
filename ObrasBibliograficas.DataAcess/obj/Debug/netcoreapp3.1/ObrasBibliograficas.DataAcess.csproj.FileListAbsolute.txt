@@ -11,3 +11,16 @@ C:\Users\Denis\source\repos\ObrasBibliograficas\ObrasBibliograficas.DataAcess\ob
 C:\Users\Denis\source\repos\ObrasBibliograficas\ObrasBibliograficas.DataAcess\obj\Debug\netcoreapp3.1\ObrasBibliograficas.DataAcess.csproj.CopyComplete
 C:\Users\Denis\source\repos\ObrasBibliograficas\ObrasBibliograficas.DataAcess\obj\Debug\netcoreapp3.1\ObrasBibliograficas.DataAcess.dll
 C:\Users\Denis\source\repos\ObrasBibliograficas\ObrasBibliograficas.DataAcess\obj\Debug\netcoreapp3.1\ObrasBibliograficas.DataAcess.pdb
+C:\Projetos\obras-bibliograficas\ObrasBibliograficas.DataAcess\bin\Debug\netcoreapp3.1\ObrasBibliograficas.DataAcess.deps.json
+C:\Projetos\obras-bibliograficas\ObrasBibliograficas.DataAcess\bin\Debug\netcoreapp3.1\ObrasBibliograficas.DataAcess.runtimeconfig.json
+C:\Projetos\obras-bibliograficas\ObrasBibliograficas.DataAcess\bin\Debug\netcoreapp3.1\ObrasBibliograficas.DataAcess.runtimeconfig.dev.json
+C:\Projetos\obras-bibliograficas\ObrasBibliograficas.DataAcess\bin\Debug\netcoreapp3.1\ObrasBibliograficas.DataAcess.dll
+C:\Projetos\obras-bibliograficas\ObrasBibliograficas.DataAcess\bin\Debug\netcoreapp3.1\ObrasBibliograficas.DataAcess.pdb
+C:\Projetos\obras-bibliograficas\ObrasBibliograficas.DataAcess\bin\Debug\netcoreapp3.1\ObrasBibliograficas.Domain.dll
+C:\Projetos\obras-bibliograficas\ObrasBibliograficas.DataAcess\bin\Debug\netcoreapp3.1\ObrasBibliograficas.Domain.pdb
+C:\Projetos\obras-bibliograficas\ObrasBibliograficas.DataAcess\obj\Debug\netcoreapp3.1\ObrasBibliograficas.DataAcess.csprojAssemblyReference.cache
+C:\Projetos\obras-bibliograficas\ObrasBibliograficas.DataAcess\obj\Debug\netcoreapp3.1\ObrasBibliograficas.DataAcess.AssemblyInfoInputs.cache
+C:\Projetos\obras-bibliograficas\ObrasBibliograficas.DataAcess\obj\Debug\netcoreapp3.1\ObrasBibliograficas.DataAcess.AssemblyInfo.cs
+C:\Projetos\obras-bibliograficas\ObrasBibliograficas.DataAcess\obj\Debug\netcoreapp3.1\ObrasBibliograficas.DataAcess.csproj.CopyComplete
+C:\Projetos\obras-bibliograficas\ObrasBibliograficas.DataAcess\obj\Debug\netcoreapp3.1\ObrasBibliograficas.DataAcess.dll
+C:\Projetos\obras-bibliograficas\ObrasBibliograficas.DataAcess\obj\Debug\netcoreapp3.1\ObrasBibliograficas.DataAcess.pdb

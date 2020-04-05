@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Denis\\source\\repos\\ObrasBibliograficas\\ObrasBibliograficas.Domain\\ObrasBibliograficas.Domain.csproj",
+      "projectUniqueName": "C:\\Projetos\\obras-bibliograficas\\ObrasBibliograficas.Domain\\ObrasBibliograficas.Domain.csproj",
       "projectName": "ObrasBibliograficas.Domain",
-      "projectPath": "C:\\Users\\Denis\\source\\repos\\ObrasBibliograficas\\ObrasBibliograficas.Domain\\ObrasBibliograficas.Domain.csproj",
+      "projectPath": "C:\\Projetos\\obras-bibliograficas\\ObrasBibliograficas.Domain\\ObrasBibliograficas.Domain.csproj",
       "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Denis\\source\\repos\\ObrasBibliograficas\\ObrasBibliograficas.Domain\\obj\\",
+      "outputPath": "C:\\Projetos\\obras-bibliograficas\\ObrasBibliograficas.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

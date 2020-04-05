@@ -7620,11 +7620,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Denis\\source\\repos\\ObrasBibliograficas\\ObrasBibliograficas\\ObrasBibliograficas.csproj",
+      "projectUniqueName": "C:\\Projetos\\obras-bibliograficas\\ObrasBibliograficas\\ObrasBibliograficas.csproj",
       "projectName": "ObrasBibliograficas",
-      "projectPath": "C:\\Users\\Denis\\source\\repos\\ObrasBibliograficas\\ObrasBibliograficas\\ObrasBibliograficas.csproj",
+      "projectPath": "C:\\Projetos\\obras-bibliograficas\\ObrasBibliograficas\\ObrasBibliograficas.csproj",
       "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Denis\\source\\repos\\ObrasBibliograficas\\ObrasBibliograficas\\obj\\",
+      "outputPath": "C:\\Projetos\\obras-bibliograficas\\ObrasBibliograficas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7643,11 +7643,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Denis\\source\\repos\\ObrasBibliograficas\\ObrasBibliograficas.AppService\\ObrasBibliograficas.AppService.csproj": {
-              "projectPath": "C:\\Users\\Denis\\source\\repos\\ObrasBibliograficas\\ObrasBibliograficas.AppService\\ObrasBibliograficas.AppService.csproj"
+            "C:\\Projetos\\obras-bibliograficas\\ObrasBibliograficas.AppService\\ObrasBibliograficas.AppService.csproj": {
+              "projectPath": "C:\\Projetos\\obras-bibliograficas\\ObrasBibliograficas.AppService\\ObrasBibliograficas.AppService.csproj"
             },
-            "C:\\Users\\Denis\\source\\repos\\ObrasBibliograficas\\ObrasBibliograficas.CrossCutting\\ObrasBibliograficas.CrossCutting.csproj": {
-              "projectPath": "C:\\Users\\Denis\\source\\repos\\ObrasBibliograficas\\ObrasBibliograficas.CrossCutting\\ObrasBibliograficas.CrossCutting.csproj"
+            "C:\\Projetos\\obras-bibliograficas\\ObrasBibliograficas.CrossCutting\\ObrasBibliograficas.CrossCutting.csproj": {
+              "projectPath": "C:\\Projetos\\obras-bibliograficas\\ObrasBibliograficas.CrossCutting\\ObrasBibliograficas.CrossCutting.csproj"
             }
           }
         }

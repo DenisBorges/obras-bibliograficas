@@ -5,3 +5,11 @@ C:\Users\Denis\source\repos\ObrasBibliograficas\ObrasBibliograficas.Domain\obj\D
 C:\Users\Denis\source\repos\ObrasBibliograficas\ObrasBibliograficas.Domain\obj\Debug\netcoreapp3.1\ObrasBibliograficas.Domain.AssemblyInfo.cs
 C:\Users\Denis\source\repos\ObrasBibliograficas\ObrasBibliograficas.Domain\obj\Debug\netcoreapp3.1\ObrasBibliograficas.Domain.dll
 C:\Users\Denis\source\repos\ObrasBibliograficas\ObrasBibliograficas.Domain\obj\Debug\netcoreapp3.1\ObrasBibliograficas.Domain.pdb
+C:\Projetos\obras-bibliograficas\ObrasBibliograficas.Domain\bin\Debug\netcoreapp3.1\ObrasBibliograficas.Domain.deps.json
+C:\Projetos\obras-bibliograficas\ObrasBibliograficas.Domain\bin\Debug\netcoreapp3.1\ObrasBibliograficas.Domain.dll
+C:\Projetos\obras-bibliograficas\ObrasBibliograficas.Domain\bin\Debug\netcoreapp3.1\ObrasBibliograficas.Domain.pdb
+C:\Projetos\obras-bibliograficas\ObrasBibliograficas.Domain\obj\Debug\netcoreapp3.1\ObrasBibliograficas.Domain.csprojAssemblyReference.cache
+C:\Projetos\obras-bibliograficas\ObrasBibliograficas.Domain\obj\Debug\netcoreapp3.1\ObrasBibliograficas.Domain.AssemblyInfoInputs.cache
+C:\Projetos\obras-bibliograficas\ObrasBibliograficas.Domain\obj\Debug\netcoreapp3.1\ObrasBibliograficas.Domain.AssemblyInfo.cs
+C:\Projetos\obras-bibliograficas\ObrasBibliograficas.Domain\obj\Debug\netcoreapp3.1\ObrasBibliograficas.Domain.dll
+C:\Projetos\obras-bibliograficas\ObrasBibliograficas.Domain\obj\Debug\netcoreapp3.1\ObrasBibliograficas.Domain.pdb

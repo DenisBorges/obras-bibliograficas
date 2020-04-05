@@ -6126,11 +6126,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Denis\\source\\repos\\ObrasBibliograficas\\ObrasBibliograficas.CrossCutting\\ObrasBibliograficas.CrossCutting.csproj",
+      "projectUniqueName": "C:\\Projetos\\obras-bibliograficas\\ObrasBibliograficas.CrossCutting\\ObrasBibliograficas.CrossCutting.csproj",
       "projectName": "ObrasBibliograficas.CrossCutting",
-      "projectPath": "C:\\Users\\Denis\\source\\repos\\ObrasBibliograficas\\ObrasBibliograficas.CrossCutting\\ObrasBibliograficas.CrossCutting.csproj",
+      "projectPath": "C:\\Projetos\\obras-bibliograficas\\ObrasBibliograficas.CrossCutting\\ObrasBibliograficas.CrossCutting.csproj",
       "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Denis\\source\\repos\\ObrasBibliograficas\\ObrasBibliograficas.CrossCutting\\obj\\",
+      "outputPath": "C:\\Projetos\\obras-bibliograficas\\ObrasBibliograficas.CrossCutting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6149,11 +6149,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Denis\\source\\repos\\ObrasBibliograficas\\ObrasBibliograficas.AppService\\ObrasBibliograficas.AppService.csproj": {
-              "projectPath": "C:\\Users\\Denis\\source\\repos\\ObrasBibliograficas\\ObrasBibliograficas.AppService\\ObrasBibliograficas.AppService.csproj"
+            "C:\\Projetos\\obras-bibliograficas\\ObrasBibliograficas.AppService\\ObrasBibliograficas.AppService.csproj": {
+              "projectPath": "C:\\Projetos\\obras-bibliograficas\\ObrasBibliograficas.AppService\\ObrasBibliograficas.AppService.csproj"
             },
-            "C:\\Users\\Denis\\source\\repos\\ObrasBibliograficas\\ObrasBibliograficas.DataAcess\\ObrasBibliograficas.DataAcess.csproj": {
-              "projectPath": "C:\\Users\\Denis\\source\\repos\\ObrasBibliograficas\\ObrasBibliograficas.DataAcess\\ObrasBibliograficas.DataAcess.csproj"
+            "C:\\Projetos\\obras-bibliograficas\\ObrasBibliograficas.DataAcess\\ObrasBibliograficas.DataAcess.csproj": {
+              "projectPath": "C:\\Projetos\\obras-bibliograficas\\ObrasBibliograficas.DataAcess\\ObrasBibliograficas.DataAcess.csproj"
             }
           }
         }

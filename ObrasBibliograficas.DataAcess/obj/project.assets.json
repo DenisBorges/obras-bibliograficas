@@ -1346,11 +1346,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Denis\\source\\repos\\ObrasBibliograficas\\ObrasBibliograficas.DataAcess\\ObrasBibliograficas.DataAcess.csproj",
+      "projectUniqueName": "C:\\Projetos\\obras-bibliograficas\\ObrasBibliograficas.DataAcess\\ObrasBibliograficas.DataAcess.csproj",
       "projectName": "ObrasBibliograficas.DataAcess",
-      "projectPath": "C:\\Users\\Denis\\source\\repos\\ObrasBibliograficas\\ObrasBibliograficas.DataAcess\\ObrasBibliograficas.DataAcess.csproj",
+      "projectPath": "C:\\Projetos\\obras-bibliograficas\\ObrasBibliograficas.DataAcess\\ObrasBibliograficas.DataAcess.csproj",
       "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Denis\\source\\repos\\ObrasBibliograficas\\ObrasBibliograficas.DataAcess\\obj\\",
+      "outputPath": "C:\\Projetos\\obras-bibliograficas\\ObrasBibliograficas.DataAcess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1369,8 +1369,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Denis\\source\\repos\\ObrasBibliograficas\\ObrasBibliograficas.Domain\\ObrasBibliograficas.Domain.csproj": {
-              "projectPath": "C:\\Users\\Denis\\source\\repos\\ObrasBibliograficas\\ObrasBibliograficas.Domain\\ObrasBibliograficas.Domain.csproj"
+            "C:\\Projetos\\obras-bibliograficas\\ObrasBibliograficas.Domain\\ObrasBibliograficas.Domain.csproj": {
+              "projectPath": "C:\\Projetos\\obras-bibliograficas\\ObrasBibliograficas.Domain\\ObrasBibliograficas.Domain.csproj"
             }
           }
         }
